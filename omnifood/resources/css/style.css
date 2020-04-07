@@ -203,7 +203,7 @@ input[type=submit]:active{
 
 header {
     
-    background-image:linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url(./img/hero-min.jpg);
+    background-image:linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url("https://res.cloudinary.com/dppztxeda/image/upload/c_fill,h_450,w_650/v1586303190/zu0snsbhdqvq04emcbny.jpg");
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -479,7 +479,7 @@ h4 {
 /* TESTIMONIALS*/
 /*-------------*/
 .section-testimonials {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(./img/back-customers-min.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("https://res.cloudinary.com/dppztxeda/image/upload/c_fill,h_450,w_650/v1586303138/lgfhnfqc82gov953hxin.jpg");
     background-size: cover;
     color: #fff;
     background-attachment: fixed;
